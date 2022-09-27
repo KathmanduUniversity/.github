@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 **Kathmandu University (KU)** is an autonomous, not-for-profit, self-funding public institution established by an Act of Parliament in December 1991. It is an institution of higher learning dedicated to maintaining the standard of academic excellence in various classical and professional disciplines.
 
 The mission statement of the University is **“to provide quality education for leadership”**. The vision is **“to become a world-class university devoted to bringing knowledge and technology to the service of mankind”**.
