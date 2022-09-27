@@ -1,1 +1,1 @@
-# .github
+# Kathmandu University
